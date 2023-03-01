@@ -9,7 +9,7 @@ import java.time.Duration;
 import static java.lang.System.out;
 
 /**
- * Hello world!
+ * First HttpClient Example!
  *
  */
 public class Main 
